@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(8, 11, 65);
+}
+a {
+    color: peru;
+}
+.error {
+    color: #f00;
+}
+
+/* Contenido */
+.titulo {
+    text-align: center;
+    color: peru;
+}
+.cerrar-sesion {
+    color: peru;
+}
+.article-contenido {
+    background-color: #fff;
+}
+.article-contenido p {
+    padding: 30px;
+}
+.border {
+    background-color: peru;
+    border: 0 !important;
+    height: 15px;
+}
+
+
+/* Registrate */
+.container-registro {
+    width: 50%;  
+}
+#form-registro .form-section {
+    margin: 10px 0;
+}
+#form-registro .form-section .input-group-prepend{
+    margin-right: 5px;
+}
+#form-registro .form-section .input-group-text {
+    width: 60px;
+}
+#form-registro .form-section input {
+    font-size: 20px;
+    height: 60px;
+    border: 0;
+}
+#form-registro .form-section i {
+    font-size: 18px;
+    margin: 0 auto;
+}
+#form-registro .form-section button{
+    height: 60px;
+    width: 60px;
+    margin-left: 5px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    background-color: peru;
+    border-color: peru;
+    margin-bottom: 0 !important;
+}
